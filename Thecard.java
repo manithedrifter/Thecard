@@ -38,7 +38,7 @@ public class Thecard
 				{
 					if(i==1 || i==2 || i==3 || i==4)
 					{
-						System.out.print(" ");
+						System.out.print("   ");
 						continue;
 					}
 				}
