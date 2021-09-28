@@ -77,7 +77,7 @@ public class Thecard
 				{
 					if(j==1 || j==2 || j==3 || j==4)
 					{
-						System.out.print(" ");
+						System.out.print("   ");
 						continue;
 					}
 				}
